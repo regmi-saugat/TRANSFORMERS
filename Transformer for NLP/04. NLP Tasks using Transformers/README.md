@@ -1,4 +1,4 @@
-In this notebook we have explore several kind of transformers using Hugging Face's pipeline for transformers
+[In this notebook](https://github.com/regmi-saugat/TRANSFORMERS/blob/main/Transformer%20for%20NLP/04.%20NLP%20Tasks%20using%20Transformers/Transformer%20Tasks.ipynb) we have explore several kind of transformers using Hugging Face's pipeline for transformers
 
 **Stanford Sentiment TreeBank (SST-2)** contains movie reviews. Using, SST on a Hugging Face transformers pipeline model we have run a simple binary classification problem
 
